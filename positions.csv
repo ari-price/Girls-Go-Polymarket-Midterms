@@ -1,0 +1,21 @@
+platform,bet_on,label,side,shares,avg_price,price_override,market_id,my_prob
+susqies,DE-SEN: D wins,DE Senate - R NO,NO,1333,0.899,0.890,,0.98
+susqies,RI-GOV: D wins,RI Governor - R NO,NO,564,0.975,0.894,,
+susqies,OK-SEN: R wins,OK Senate - D NO,NO,612,0.980,0.893,,0.98
+susqies,AK-SEN: D loses,AK Senate - D NO,NO,6220,0.321,0.288,,0.36
+susqies,AK-GOV: R loses,AK Governor - R NO,NO,1032,0.775,0.768,,0.73
+susqies,WY-SEN: R wins,WY Senate - R YES,YES,605,0.991,0.956,,
+susqies,TN-SEN: R wins,TN Senate - D NO,NO,515,0.970,0.932,,0.97
+susqies,KS-SEN: R wins,KS Senate - R YES,YES,4878,0.615,0.606,,0.81
+susqies,KS-SEN: R wins,KS Senate - D NO,NO,5689,0.580,0.575,,0.81
+susqies,WI-01: R wins,WI-01 - R YES,YES,930,0.645,0.652,,
+susqies,VA-01: D wins,VA-01 - D YES,YES,2142,0.560,0.555,,
+susqies,MI-10: D wins,MI-10 - D YES,YES,757,0.660,0.635,,
+susqies,FL-22: R wins,FL-22 - R YES,YES,1142,0.490,0.465,,
+susqies,KS-GOV: R wins,KS Governor - R YES,YES,1362,0.734,0.755,,0.68
+susqies,NE-SEN: Ind loses,NE Senate - Ind NO,NO,1241,0.725,0.710,,0.75
+susqies,PA-01: R wins,PA-01 - R YES,YES,4509,0.621,0.633,,
+susqies,CO-04: R wins,CO-04 - D NO,NO,1428,0.700,0.707,,0.80
+susqies,CO-03: R wins,CO-03 - R YES,YES,1538,0.715,0.683,,0.70
+susqies,TX-GOV: R wins,TX Governor - D NO,NO,2446,0.695,0.711,,
+susqies,US-SEN: D controls,U.S. Senate - R NO,NO,4122,0.655,0.643,,0.65
