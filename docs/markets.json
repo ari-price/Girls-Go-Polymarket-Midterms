@@ -1,0 +1,126 @@
+{
+ "rows": [
+  {
+   "venue": "Polymarket",
+   "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+   "yes": 0.905,
+   "volume": 8838309.792070003
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+   "yes": 0.095,
+   "volume": 6998942.957222999
+  },
+  {
+   "venue": "Polymarket",
+   "market": "2026 Balance of Power: R Senate, R House",
+   "yes": 0.085,
+   "volume": 6885937.92362
+  },
+  {
+   "venue": "Polymarket",
+   "market": "2026 Balance of Power: D Senate, D House",
+   "yes": 0.615,
+   "volume": 5233760.270819999
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Tom Steyer win the California Governor Election in 2026?",
+   "yes": 0.001,
+   "volume": 4807783.802800998
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+   "yes": 0.625,
+   "volume": 3626797.8668580023
+  },
+  {
+   "venue": "Polymarket",
+   "market": "2026 Balance of Power: R Senate, D House",
+   "yes": 0.295,
+   "volume": 3325409.27467
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Steve Hilton win the California Governor Election in 2026?",
+   "yes": 0.038,
+   "volume": 3284446.8092449987
+  },
+  {
+   "venue": "Polymarket",
+   "market": "2026 Balance of Power: D Senate, R House",
+   "yes": 0.009,
+   "volume": 3227815.1699630003
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+   "yes": 0.365,
+   "volume": 2599474.0324650006
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Xavier Becerra win the California Governor Election in 2026?",
+   "yes": 0.96,
+   "volume": 2123844.502590999
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Alex Padilla win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1996708.566445
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Chad Bianco win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1947425.0949089993
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Kyle Langford win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1828771.5444079994
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Rick Caruso win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1797463.5657100007
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Nicole Shanahan win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1778288.9575949996
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Katie Porter win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1770177.4528619999
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Betty Yee win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1748037.7087820002
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will Antonio Villaraigosa win the California Governor Election in 2026?",
+   "yes": 0.0005,
+   "volume": 1617994.1496640004
+  },
+  {
+   "venue": "Polymarket",
+   "market": "Will the Republicans win the Texas Senate race in 2026?",
+   "yes": 0.375,
+   "volume": 1602713.447635
+  }
+ ],
+ "note": "Sources: Kalshi and Polymarket.",
+ "updated": "Oct 10, 2026 02:48 UTC"
+}
