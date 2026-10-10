@@ -1,7 +1,7 @@
 name: Daily dashboard
 on:
   schedule:
-    - cron: "0 14 * * *"   # 7:00 AM Pacific (PDT)
+    - cron: "0 0 * * *"   # 7:00 AM Pacific (PDT)
   workflow_dispatch:
   push:
     paths: [positions.csv, build.py]
